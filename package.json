@@ -1,0 +1,14 @@
+{
+  "name": "adc-playwright-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projet d'exemple Playwright + TypeScript : tests web et API, prêt pour GitHub Actions.",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  },
+  "license": "MIT"
+}
